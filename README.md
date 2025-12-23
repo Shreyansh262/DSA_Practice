@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Shreyansh262/DSA_Practice/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,4 +18,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shreyansh262/DSA_Practice/tree/master/0050-powx-n) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Shreyansh262/DSA_Practice/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
