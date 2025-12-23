@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/Shreyansh262/DSA_Practice/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Shreyansh262/DSA_Practice/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Shreyansh262/DSA_Practice/tree/master/0053-maximum-subarray) |
+| [0485-max-consecutive-ones](https://github.com/Shreyansh262/DSA_Practice/tree/master/0485-max-consecutive-ones) |
 | [1929-concatenation-of-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1929-concatenation-of-array) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
