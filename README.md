@@ -19,6 +19,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Shreyansh262/DSA_Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shreyansh262/DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Shreyansh262/DSA_Practice/tree/master/0050-powx-n) |
