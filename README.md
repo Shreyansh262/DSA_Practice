@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Shreyansh262/DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Shreyansh262/DSA_Practice/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Shreyansh262/DSA_Practice/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Shreyansh262/DSA_Practice/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Shreyansh262/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0485-max-consecutive-ones](https://github.com/Shreyansh262/DSA_Practice/tree/master/0485-max-consecutive-ones) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shreyansh262/DSA_Practice/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Shreyansh262/DSA_Practice/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Shreyansh262/DSA_Practice/tree/master/0125-valid-palindrome) |
 ## String
 |  |
