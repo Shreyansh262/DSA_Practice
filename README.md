@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/Shreyansh262/DSA_Practice/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Shreyansh262/DSA_Practice/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Shreyansh262/DSA_Practice/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shreyansh262/DSA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Shreyansh262/DSA_Practice/tree/master/0485-max-consecutive-ones) |
@@ -26,6 +27,7 @@
 | [0001-two-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Shreyansh262/DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Shreyansh262/DSA_Practice/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Shreyansh262/DSA_Practice/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shreyansh262/DSA_Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
