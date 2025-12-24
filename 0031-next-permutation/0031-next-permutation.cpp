@@ -12,16 +12,12 @@ public:
             if (k == -1) {
                 sort(nums.begin(), nums.end());
             } else {
-                for (int j = k + 1; j < nums.size(); j++) {
+                for (int j = nums.size()-1; j>k; j--) {
                     if (nums[j] > nums[k]) {
-                        f = min(w, nums[j]);
-                        if (f != w) {
-                            w = f;
-                            min_index = j;
-                        }
+                        swap(nums[k], nums[j]);
+                        break;
                     }
                 }
-                swap(nums[k], nums[min_index]);
                 sort(nums.begin() + k + 1, nums.end());
             }
         }
