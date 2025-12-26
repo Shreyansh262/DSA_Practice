@@ -14,6 +14,7 @@
 | [0118-pascals-triangle](https://github.com/Shreyansh262/DSA_Practice/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shreyansh262/DSA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Shreyansh262/DSA_Practice/tree/master/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/Shreyansh262/DSA_Practice/tree/master/0636-exclusive-time-of-functions) |
@@ -44,6 +45,7 @@
 | [0013-roman-to-integer](https://github.com/Shreyansh262/DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Shreyansh262/DSA_Practice/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shreyansh262/DSA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -54,6 +56,7 @@
 | [0027-remove-element](https://github.com/Shreyansh262/DSA_Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Shreyansh262/DSA_Practice/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Shreyansh262/DSA_Practice/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
