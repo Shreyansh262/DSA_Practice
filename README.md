@@ -16,6 +16,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shreyansh262/DSA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shreyansh262/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Shreyansh262/DSA_Practice/tree/master/0485-max-consecutive-ones) |
@@ -36,6 +37,7 @@
 | [0036-valid-sudoku](https://github.com/Shreyansh262/DSA_Practice/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Shreyansh262/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Shreyansh262/DSA_Practice/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -48,6 +50,7 @@
 | [0050-powx-n](https://github.com/Shreyansh262/DSA_Practice/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shreyansh262/DSA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -92,10 +95,12 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Shreyansh262/DSA_Practice/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Shreyansh262/DSA_Practice/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -118,4 +123,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
