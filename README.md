@@ -67,6 +67,7 @@
 | [0027-remove-element](https://github.com/Shreyansh262/DSA_Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Shreyansh262/DSA_Practice/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Shreyansh262/DSA_Practice/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shreyansh262/DSA_Practice/tree/master/0283-move-zeroes) |
 ## String
@@ -75,6 +76,7 @@
 | [0013-roman-to-integer](https://github.com/Shreyansh262/DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shreyansh262/DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Shreyansh262/DSA_Practice/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Shreyansh262/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
 |  |
