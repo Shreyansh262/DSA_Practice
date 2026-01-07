@@ -10,8 +10,7 @@ public:
             b.insert(s[i]);
             c.insert(t[i]);
         }
-        if(a.size()==b.size()&&a.size()==c.size()) return true;
-        else return false;
+        return (a.size()==b.size()&&a.size()==c.size());
 
     }
 };
