@@ -176,4 +176,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/0796-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Shreyansh262/DSA_Practice/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
