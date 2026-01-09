@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shreyansh262/DSA_Practice/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Shreyansh262/DSA_Practice/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,5 +183,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Shreyansh262/DSA_Practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shreyansh262/DSA_Practice/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
