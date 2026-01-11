@@ -78,6 +78,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shreyansh262/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shreyansh262/DSA_Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shreyansh262/DSA_Practice/tree/master/0027-remove-element) |
@@ -93,6 +94,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shreyansh262/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Shreyansh262/DSA_Practice/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Shreyansh262/DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shreyansh262/DSA_Practice/tree/master/0014-longest-common-prefix) |
@@ -125,6 +127,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shreyansh262/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Shreyansh262/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Shreyansh262/DSA_Practice/tree/master/0118-pascals-triangle) |
 ## Simulation
