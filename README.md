@@ -68,6 +68,7 @@
 | [0050-powx-n](https://github.com/Shreyansh262/DSA_Practice/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shreyansh262/DSA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Shreyansh262/DSA_Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
@@ -75,6 +76,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Shreyansh262/DSA_Practice/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Shreyansh262/DSA_Practice/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Shreyansh262/DSA_Practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Shreyansh262/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -139,6 +141,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Shreyansh262/DSA_Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Shreyansh262/DSA_Practice/tree/master/0645-set-mismatch) |
 ## Sorting
