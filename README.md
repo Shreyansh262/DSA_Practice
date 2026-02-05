@@ -32,6 +32,7 @@
 | [0485-max-consecutive-ones](https://github.com/Shreyansh262/DSA_Practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Shreyansh262/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0636-exclusive-time-of-functions](https://github.com/Shreyansh262/DSA_Practice/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Shreyansh262/DSA_Practice/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Shreyansh262/DSA_Practice/tree/master/0739-daily-temperatures) |
@@ -64,6 +65,7 @@
 | [0268-missing-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Shreyansh262/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Shreyansh262/DSA_Practice/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shreyansh262/DSA_Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -239,5 +241,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Shreyansh262/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
