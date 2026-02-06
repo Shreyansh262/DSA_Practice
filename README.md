@@ -36,6 +36,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Shreyansh262/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0636-exclusive-time-of-functions](https://github.com/Shreyansh262/DSA_Practice/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Shreyansh262/DSA_Practice/tree/master/0645-set-mismatch) |
+| [0735-asteroid-collision](https://github.com/Shreyansh262/DSA_Practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Shreyansh262/DSA_Practice/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Shreyansh262/DSA_Practice/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shreyansh262/DSA_Practice/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/Shreyansh262/DSA_Practice/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
@@ -184,6 +186,7 @@
 | [0234-palindrome-linked-list](https://github.com/Shreyansh262/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0636-exclusive-time-of-functions](https://github.com/Shreyansh262/DSA_Practice/tree/master/0636-exclusive-time-of-functions) |
+| [0735-asteroid-collision](https://github.com/Shreyansh262/DSA_Practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Shreyansh262/DSA_Practice/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Shreyansh262/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shreyansh262/DSA_Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
