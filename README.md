@@ -18,6 +18,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Shreyansh262/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shreyansh262/DSA_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shreyansh262/DSA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Shreyansh262/DSA_Practice/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shreyansh262/DSA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shreyansh262/DSA_Practice/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shreyansh262/DSA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shreyansh262/DSA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Shreyansh262/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/0496-next-greater-element-i) |
@@ -189,6 +191,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shreyansh262/DSA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Shreyansh262/DSA_Practice/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shreyansh262/DSA_Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
