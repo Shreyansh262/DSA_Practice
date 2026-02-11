@@ -76,6 +76,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shreyansh262/DSA_Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Shreyansh262/DSA_Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shreyansh262/DSA_Practice/tree/master/0013-roman-to-integer) |
@@ -90,6 +91,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shreyansh262/DSA_Practice/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Shreyansh262/DSA_Practice/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Shreyansh262/DSA_Practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Shreyansh262/DSA_Practice/tree/master/0231-power-of-two) |
@@ -235,6 +237,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shreyansh262/DSA_Practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shreyansh262/DSA_Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shreyansh262/DSA_Practice/tree/master/0160-intersection-of-two-linked-lists) |
