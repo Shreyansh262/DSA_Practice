@@ -42,6 +42,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Shreyansh262/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0636-exclusive-time-of-functions](https://github.com/Shreyansh262/DSA_Practice/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Shreyansh262/DSA_Practice/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/Shreyansh262/DSA_Practice/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Shreyansh262/DSA_Practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Shreyansh262/DSA_Practice/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Shreyansh262/DSA_Practice/tree/master/0875-koko-eating-bananas) |
@@ -234,6 +235,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Shreyansh262/DSA_Practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Shreyansh262/DSA_Practice/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shreyansh262/DSA_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
