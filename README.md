@@ -183,6 +183,7 @@
 | [0231-power-of-two](https://github.com/Shreyansh262/DSA_Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Shreyansh262/DSA_Practice/tree/master/0645-set-mismatch) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
 | ------- |
