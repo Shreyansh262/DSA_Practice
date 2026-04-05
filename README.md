@@ -62,6 +62,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shreyansh262/DSA_Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shreyansh262/DSA_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shreyansh262/DSA_Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@
 | [0231-power-of-two](https://github.com/Shreyansh262/DSA_Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/1903-largest-odd-number-in-string) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shreyansh262/DSA_Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Recursion
 |  |
 | ------- |
@@ -161,6 +163,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Shreyansh262/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shreyansh262/DSA_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shreyansh262/DSA_Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -184,6 +187,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Shreyansh262/DSA_Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shreyansh262/DSA_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shreyansh262/DSA_Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Bit Manipulation
 |  |
 | ------- |
