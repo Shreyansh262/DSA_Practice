@@ -149,6 +149,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Shreyansh262/DSA_Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shreyansh262/DSA_Practice/tree/master/0242-valid-anagram) |
+| [0678-valid-parenthesis-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Shreyansh262/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shreyansh262/DSA_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -183,6 +184,7 @@
 | [0118-pascals-triangle](https://github.com/Shreyansh262/DSA_Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyansh262/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0799-champagne-tower](https://github.com/Shreyansh262/DSA_Practice/tree/master/0799-champagne-tower) |
 ## Simulation
 |  |
@@ -234,6 +236,7 @@
 | [0496-next-greater-element-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/Shreyansh262/DSA_Practice/tree/master/0636-exclusive-time-of-functions) |
+| [0678-valid-parenthesis-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Shreyansh262/DSA_Practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Shreyansh262/DSA_Practice/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Shreyansh262/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
@@ -278,6 +281,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Shreyansh262/DSA_Practice/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Shreyansh262/DSA_Practice/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/1903-largest-odd-number-in-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shreyansh262/DSA_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
