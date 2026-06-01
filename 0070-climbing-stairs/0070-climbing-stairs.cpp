@@ -1,14 +1,26 @@
 class Solution {
 public:
-//Tabulization
+
     int climbStairs(int n) {
-        vector<int> a(n+1,-1);
-        a[0]=1;
-        a[1]=1;
+        //Tabulization + space
+        int prev,prev2;
+        prev=1;
+        prev2=1;
+        int curri = 1;
         for(int i = 2;i<=n;i++){
-            a[i] = a[i-1]+a[i-2];
+            curri = prev+prev2;
+            prev2 = prev;
+            prev = curri;
         }
-        return a[n];
+        return curri;
+        //Tabulization
+        // vector<int> a(n+1,-1);
+        // a[0]=1;
+        // a[1]=1;
+        // for(int i = 2;i<=n;i++){
+        //     a[i] = a[i-1]+a[i-2];
+        // }
+        // return a[n];
     }
     //memoization
     // int f(int n, vector<int>& x) {
