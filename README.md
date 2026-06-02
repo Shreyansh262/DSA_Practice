@@ -67,6 +67,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shreyansh262/DSA_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shreyansh262/DSA_Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shreyansh262/DSA_Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shreyansh262/DSA_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shreyansh262/DSA_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
 | ------- |
@@ -220,6 +222,7 @@
 | [0645-set-mismatch](https://github.com/Shreyansh262/DSA_Practice/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shreyansh262/DSA_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -278,6 +281,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shreyansh262/DSA_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shreyansh262/DSA_Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/1539-kth-missing-positive-number) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
 | ------- |
@@ -287,6 +291,7 @@
 | [0860-lemonade-change](https://github.com/Shreyansh262/DSA_Practice/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/1903-largest-odd-number-in-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shreyansh262/DSA_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String Matching
 |  |
 | ------- |
