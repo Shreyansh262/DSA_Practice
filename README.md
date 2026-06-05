@@ -33,6 +33,7 @@
 | [0169-majority-element](https://github.com/Shreyansh262/DSA_Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Shreyansh262/DSA_Practice/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0268-missing-number) |
@@ -190,6 +191,7 @@
 | [0118-pascals-triangle](https://github.com/Shreyansh262/DSA_Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyansh262/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Shreyansh262/DSA_Practice/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0799-champagne-tower](https://github.com/Shreyansh262/DSA_Practice/tree/master/0799-champagne-tower) |
