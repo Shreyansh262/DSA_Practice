@@ -53,6 +53,7 @@
 | [0739-daily-temperatures](https://github.com/Shreyansh262/DSA_Practice/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Shreyansh262/DSA_Practice/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Shreyansh262/DSA_Practice/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/Shreyansh262/DSA_Practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shreyansh262/DSA_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shreyansh262/DSA_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -175,6 +176,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Shreyansh262/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shreyansh262/DSA_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/Shreyansh262/DSA_Practice/tree/master/0994-rotting-oranges) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shreyansh262/DSA_Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Divide and Conquer
 |  |
@@ -344,6 +346,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Shreyansh262/DSA_Practice/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/Shreyansh262/DSA_Practice/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
