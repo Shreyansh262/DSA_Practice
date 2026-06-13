@@ -249,6 +249,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shreyansh262/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shreyansh262/DSA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shreyansh262/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shreyansh262/DSA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Shreyansh262/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/0496-next-greater-element-i) |
@@ -347,6 +348,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shreyansh262/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0547-number-of-provinces](https://github.com/Shreyansh262/DSA_Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Shreyansh262/DSA_Practice/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -363,4 +365,12 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Shreyansh262/DSA_Practice/tree/master/0547-number-of-provinces) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shreyansh262/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shreyansh262/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
