@@ -65,6 +65,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shreyansh262/DSA_Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shreyansh262/DSA_Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/1539-kth-missing-positive-number) |
+| [1732-find-the-highest-altitude](https://github.com/Shreyansh262/DSA_Practice/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shreyansh262/DSA_Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1929-concatenation-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shreyansh262/DSA_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -337,6 +338,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Shreyansh262/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shreyansh262/DSA_Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1732-find-the-highest-altitude](https://github.com/Shreyansh262/DSA_Practice/tree/master/1732-find-the-highest-altitude) |
 ## Enumeration
 |  |
 | ------- |
