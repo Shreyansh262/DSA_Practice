@@ -40,6 +40,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shreyansh262/DSA_Practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Shreyansh262/DSA_Practice/tree/master/0455-assign-cookies) |
@@ -146,6 +147,7 @@
 | [0189-rotate-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Shreyansh262/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Shreyansh262/DSA_Practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Shreyansh262/DSA_Practice/tree/master/0455-assign-cookies) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shreyansh262/DSA_Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shreyansh262/DSA_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -223,6 +225,7 @@
 | [0136-single-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Shreyansh262/DSA_Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Shreyansh262/DSA_Practice/tree/master/0645-set-mismatch) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
@@ -294,6 +297,7 @@
 | [0162-find-peak-element](https://github.com/Shreyansh262/DSA_Practice/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shreyansh262/DSA_Practice/tree/master/0704-binary-search) |
