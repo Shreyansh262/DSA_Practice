@@ -11,16 +11,20 @@
  */
 class Solution {
 public:
-    int fn(TreeNode* root,vector<int>& ans){
-        if(root == nullptr) return 0;
-        int x = fn(root->left,ans);
-        ans.push_back(root->val);
-        int y = fn(root->right,ans);
-        return 0;
+int count = 0;
+    int result = -1;
+    void fn(TreeNode* root,int k){
+        if(root == nullptr||count>=k) return ;
+        fn(root->left,k);
+        count++;
+        if(count==k){
+            result = root->val;
+            return;
+        }
+        fn(root->right,k);
     }
     int kthSmallest(TreeNode* root, int k) {
-        vector<int>ans;
-        int x = fn(root,ans);
-        return ans[k-1];
+        fn(root,k);
+        return result;
     }
 };
