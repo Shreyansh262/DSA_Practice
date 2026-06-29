@@ -417,6 +417,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyansh262/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -425,6 +426,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyansh262/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -447,4 +449,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Shreyansh262/DSA_Practice/tree/master/0295-find-median-from-data-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
