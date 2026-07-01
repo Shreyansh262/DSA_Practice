@@ -25,6 +25,7 @@
 | [0075-sort-colors](https://github.com/Shreyansh262/DSA_Practice/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shreyansh262/DSA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Shreyansh262/DSA_Practice/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Shreyansh262/DSA_Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyansh262/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -198,6 +199,7 @@
 | [0054-spiral-matrix](https://github.com/Shreyansh262/DSA_Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shreyansh262/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shreyansh262/DSA_Practice/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Shreyansh262/DSA_Practice/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/Shreyansh262/DSA_Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Shreyansh262/DSA_Practice/tree/master/0994-rotting-oranges) |
@@ -217,6 +219,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Shreyansh262/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Shreyansh262/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Shreyansh262/DSA_Practice/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Shreyansh262/DSA_Practice/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Shreyansh262/DSA_Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyansh262/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Shreyansh262/DSA_Practice/tree/master/0198-house-robber) |
@@ -278,6 +281,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shreyansh262/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shreyansh262/DSA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Shreyansh262/DSA_Practice/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shreyansh262/DSA_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyansh262/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shreyansh262/DSA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -299,6 +303,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shreyansh262/DSA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Shreyansh262/DSA_Practice/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Shreyansh262/DSA_Practice/tree/master/0739-daily-temperatures) |
