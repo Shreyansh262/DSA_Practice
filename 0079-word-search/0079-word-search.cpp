@@ -1,39 +1,41 @@
 class Solution {
 public:
-    bool finder(int i, int x, int y, vector<vector<char>>& board, string& word,
-                vector<int>& drow, vector<int>& dcol, int m, int n,
-                vector<vector<int>>& isVisited) {
+    bool finder(int i, int x, int y, vector<vector<char>>& board, string& word) {
         if (i == word.size())
             return true;
+        int m = board.size();
+        int n = board[0].size();
+        
+        int drow[] = {1, -1, 0, 0};
+        int dcol[] = {0, 0, 1, -1};
 
-        for (int j = 0; j < 4; j++) {
-            if (x + drow[j] >= 0 && x + drow[j] < m && y + dcol[j] >= 0 &&
-                y + dcol[j] < n && isVisited[x + drow[j]][y + dcol[j]] == 0 &&
-                board[x + drow[j]][y + dcol[j]] == word[i]) {
-                isVisited[x + drow[j]][y + dcol[j]] = 1;
-                if (finder(i + 1, x + drow[j], y + dcol[j], board, word, drow,
-                           dcol, m, n, isVisited))
+       for (int j = 0; j < 4; j++) {
+            int nextX = x + drow[j];
+            int nextY = y + dcol[j];
+            if (nextX >= 0 && nextX < m && nextY >= 0 && nextY < n && 
+                board[nextX][nextY] == word[i]) {
+                char temp = board[nextX][nextY];
+                board[nextX][nextY] = '0'; 
+                if (finder(i + 1, nextX, nextY, board, word)) {
                     return true;
-                isVisited[x + drow[j]][y + dcol[j]] = 0;
+                }
+                board[nextX][nextY] = temp; 
             }
         }
         return false;
     }
     bool exist(vector<vector<char>>& board, string word) {
-        vector<int> drow = {1, 0, -1, 0};
-        vector<int> dcol = {0, 1, 0, -1};
         int m = board.size();
         int n = board[0].size();
-        vector<vector<int>> isVisited(m, vector<int>(n, 0));
         bool res = false;
         for (int x = 0; x < m; x++) {
             for (int y = 0; y < n; y++) {
                 if (board[x][y] == word[0]) {
-                    isVisited[x][y] = 1;
-                    res = finder(1, x, y, board, word, drow, dcol, m, n,
-                                 isVisited);
+                    char temp = board[x][y];
+                    board[x][y] = '0';
+                    res = finder(1, x, y, board, word);
                     if(res) return true;
-                    isVisited[x][y] = 0;
+                    board[x][y] = temp;
                 }
             }
         }
