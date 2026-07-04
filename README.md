@@ -129,6 +129,7 @@
 | [0029-divide-two-integers](https://github.com/Shreyansh262/DSA_Practice/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Shreyansh262/DSA_Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shreyansh262/DSA_Practice/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Shreyansh262/DSA_Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shreyansh262/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shreyansh262/DSA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0189-rotate-array) |
@@ -235,6 +236,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shreyansh262/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Shreyansh262/DSA_Practice/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Shreyansh262/DSA_Practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Shreyansh262/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Shreyansh262/DSA_Practice/tree/master/0085-maximal-rectangle) |
@@ -515,4 +517,8 @@
 | [0079-word-search](https://github.com/Shreyansh262/DSA_Practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0216-combination-sum-iii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Shreyansh262/DSA_Practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
