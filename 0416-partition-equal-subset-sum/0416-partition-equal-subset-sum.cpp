@@ -23,21 +23,27 @@ public:
         if (totSum % 2)
             return false;
         int target = totSum / 2;
-        vector<vector<bool>> dp(nums.size(), vector<bool>(target + 1, false));
+        // vector<vector<bool>> dp(nums.size(), vector<bool>(target + 1, false));
+        vector<bool> prev(target+1,false);
+        
+
         if (nums[0] <= target)
-            dp[0][nums[0]] = true;
-        for (int i = 0; i < nums.size(); i++) {
-            dp[i][0] = true;
-        }
+            prev[nums[0]] = true;
+        // for (int i = 0; i < nums.size(); i++) {
+        //     dp[i][0] = true;
+        // }
         for (int i = 1; i < nums.size(); i++) {
+            vector<bool> curr(target+1,false);
+            curr[0] = true;
             for (int t = 1; t <= target; t++) {
-                bool notTake = dp[i - 1][t];
+                bool notTake = prev[t];
                 bool take = false;
                 if (nums[i] <= t)
-                    take = dp[i - 1][t-nums[i]];
-                dp[i][t] = take || notTake;
+                    take = prev[t-nums[i]];
+                curr[t] = take || notTake;
             }
+            prev = curr;
         }
-        return dp[nums.size() - 1][target];
+        return prev[target];
     }
 };
