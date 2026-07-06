@@ -59,6 +59,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Shreyansh262/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Shreyansh262/DSA_Practice/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -252,6 +253,7 @@
 | [0213-house-robber-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0799-champagne-tower](https://github.com/Shreyansh262/DSA_Practice/tree/master/0799-champagne-tower) |
@@ -524,6 +526,7 @@
 | [0079-word-search](https://github.com/Shreyansh262/DSA_Practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/0494-target-sum) |
 ## Combinatorics
 |  |
 | ------- |
