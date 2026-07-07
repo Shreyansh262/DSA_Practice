@@ -203,6 +203,7 @@
 | [0796-rotate-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Shreyansh262/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Shreyansh262/DSA_Practice/tree/master/1189-maximum-number-of-balloons) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shreyansh262/DSA_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreyansh262/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shreyansh262/DSA_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shreyansh262/DSA_Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -261,6 +262,7 @@
 | [0518-coin-change-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0799-champagne-tower](https://github.com/Shreyansh262/DSA_Practice/tree/master/0799-champagne-tower) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shreyansh262/DSA_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Simulation
 |  |
 | ------- |
