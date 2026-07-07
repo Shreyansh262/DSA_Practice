@@ -198,6 +198,7 @@
 | [0205-isomorphic-strings](https://github.com/Shreyansh262/DSA_Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shreyansh262/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Shreyansh262/DSA_Practice/tree/master/0402-remove-k-digits) |
+| [0516-longest-palindromic-subsequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Shreyansh262/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
@@ -256,6 +257,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0799-champagne-tower](https://github.com/Shreyansh262/DSA_Practice/tree/master/0799-champagne-tower) |
