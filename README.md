@@ -210,6 +210,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Shreyansh262/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1092-shortest-common-supersequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/1092-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Shreyansh262/DSA_Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shreyansh262/DSA_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreyansh262/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -278,6 +279,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shreyansh262/DSA_Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0799-champagne-tower](https://github.com/Shreyansh262/DSA_Practice/tree/master/0799-champagne-tower) |
+| [1092-shortest-common-supersequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shreyansh262/DSA_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Simulation
 |  |
