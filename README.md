@@ -84,6 +84,7 @@
 | [0994-rotting-oranges](https://github.com/Shreyansh262/DSA_Practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shreyansh262/DSA_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Shreyansh262/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shreyansh262/DSA_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -286,6 +287,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shreyansh262/DSA_Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0799-champagne-tower](https://github.com/Shreyansh262/DSA_Practice/tree/master/0799-champagne-tower) |
 | [1092-shortest-common-supersequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/1092-shortest-common-supersequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Shreyansh262/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shreyansh262/DSA_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Simulation
 |  |
@@ -324,6 +326,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Shreyansh262/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Shreyansh262/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Shreyansh262/DSA_Practice/tree/master/0645-set-mismatch) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Shreyansh262/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shreyansh262/DSA_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -398,6 +401,7 @@
 | [0875-koko-eating-bananas](https://github.com/Shreyansh262/DSA_Practice/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shreyansh262/DSA_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Shreyansh262/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shreyansh262/DSA_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shreyansh262/DSA_Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/1539-kth-missing-positive-number) |
