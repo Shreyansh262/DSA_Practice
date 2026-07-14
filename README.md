@@ -94,6 +94,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shreyansh262/DSA_Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shreyansh262/DSA_Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/1539-kth-missing-positive-number) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Shreyansh262/DSA_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1732-find-the-highest-altitude](https://github.com/Shreyansh262/DSA_Practice/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shreyansh262/DSA_Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1929-concatenation-of-array) |
@@ -289,6 +290,7 @@
 | [1092-shortest-common-supersequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/1092-shortest-common-supersequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Shreyansh262/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shreyansh262/DSA_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Shreyansh262/DSA_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Simulation
 |  |
 | ------- |
@@ -329,6 +331,7 @@
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Shreyansh262/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Shreyansh262/DSA_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shreyansh262/DSA_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shreyansh262/DSA_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
