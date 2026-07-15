@@ -158,6 +158,7 @@
 | [1922-count-good-numbers](https://github.com/Shreyansh262/DSA_Practice/tree/master/1922-count-good-numbers) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Shreyansh262/DSA_Practice/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shreyansh262/DSA_Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Shreyansh262/DSA_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -587,4 +588,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Shreyansh262/DSA_Practice/tree/master/0207-course-schedule) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Shreyansh262/DSA_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
