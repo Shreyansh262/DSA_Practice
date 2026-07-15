@@ -85,6 +85,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shreyansh262/DSA_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Shreyansh262/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Shreyansh262/DSA_Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shreyansh262/DSA_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -153,6 +154,7 @@
 | [0231-power-of-two](https://github.com/Shreyansh262/DSA_Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0509-fibonacci-number) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Shreyansh262/DSA_Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Shreyansh262/DSA_Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Shreyansh262/DSA_Practice/tree/master/1922-count-good-numbers) |
@@ -297,6 +299,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shreyansh262/DSA_Practice/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Shreyansh262/DSA_Practice/tree/master/0735-asteroid-collision) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Shreyansh262/DSA_Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shreyansh262/DSA_Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shreyansh262/DSA_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
