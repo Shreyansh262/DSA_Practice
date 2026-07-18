@@ -153,6 +153,7 @@
 | [0050-powx-n](https://github.com/Shreyansh262/DSA_Practice/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Shreyansh262/DSA_Practice/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Shreyansh262/DSA_Practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Shreyansh262/DSA_Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shreyansh262/DSA_Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shreyansh262/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shreyansh262/DSA_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -221,6 +222,7 @@
 | [0020-valid-parentheses](https://github.com/Shreyansh262/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Shreyansh262/DSA_Practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Shreyansh262/DSA_Practice/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Shreyansh262/DSA_Practice/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Shreyansh262/DSA_Practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Shreyansh262/DSA_Practice/tree/master/0125-valid-palindrome) |
@@ -312,6 +314,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shreyansh262/DSA_Practice/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Shreyansh262/DSA_Practice/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Shreyansh262/DSA_Practice/tree/master/0735-asteroid-collision) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Shreyansh262/DSA_Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shreyansh262/DSA_Practice/tree/master/1441-build-an-array-with-stack-operations) |
@@ -323,6 +326,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shreyansh262/DSA_Practice/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Shreyansh262/DSA_Practice/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Shreyansh262/DSA_Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0136-single-number) |
