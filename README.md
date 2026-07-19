@@ -390,6 +390,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Shreyansh262/DSA_Practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Shreyansh262/DSA_Practice/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Shreyansh262/DSA_Practice/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/Shreyansh262/DSA_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shreyansh262/DSA_Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shreyansh262/DSA_Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -403,6 +404,7 @@
 | [0496-next-greater-element-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Shreyansh262/DSA_Practice/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Shreyansh262/DSA_Practice/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shreyansh262/DSA_Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Union Find
 |  |
@@ -574,10 +576,12 @@
 | [0225-implement-stack-using-queues](https://github.com/Shreyansh262/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shreyansh262/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Shreyansh262/DSA_Practice/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/Shreyansh262/DSA_Practice/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Shreyansh262/DSA_Practice/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/Shreyansh262/DSA_Practice/tree/master/0901-online-stock-span) |
 ## Binary Search Tree
 |  |
 | ------- |
