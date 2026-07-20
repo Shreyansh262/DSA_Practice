@@ -87,6 +87,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shreyansh262/DSA_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Shreyansh262/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Shreyansh262/DSA_Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/Shreyansh262/DSA_Practice/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shreyansh262/DSA_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -264,6 +265,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/Shreyansh262/DSA_Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Shreyansh262/DSA_Practice/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/Shreyansh262/DSA_Practice/tree/master/1260-shift-2d-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shreyansh262/DSA_Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Divide and Conquer
 |  |
@@ -317,6 +319,7 @@
 | [0067-add-binary](https://github.com/Shreyansh262/DSA_Practice/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Shreyansh262/DSA_Practice/tree/master/0735-asteroid-collision) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Shreyansh262/DSA_Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/Shreyansh262/DSA_Practice/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shreyansh262/DSA_Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shreyansh262/DSA_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
