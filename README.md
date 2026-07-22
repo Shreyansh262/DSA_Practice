@@ -53,6 +53,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shreyansh262/DSA_Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Shreyansh262/DSA_Practice/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Shreyansh262/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0229-majority-element-ii) |
@@ -262,6 +263,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Shreyansh262/DSA_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Shreyansh262/DSA_Practice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Shreyansh262/DSA_Practice/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Shreyansh262/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/Shreyansh262/DSA_Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Shreyansh262/DSA_Practice/tree/master/0994-rotting-oranges) |
@@ -511,6 +513,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyansh262/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/Shreyansh262/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shreyansh262/DSA_Practice/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shreyansh262/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/Shreyansh262/DSA_Practice/tree/master/0547-number-of-provinces) |
@@ -520,6 +523,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shreyansh262/DSA_Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Shreyansh262/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shreyansh262/DSA_Practice/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Shreyansh262/DSA_Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Shreyansh262/DSA_Practice/tree/master/0733-flood-fill) |
@@ -527,6 +531,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Shreyansh262/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Shreyansh262/DSA_Practice/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
