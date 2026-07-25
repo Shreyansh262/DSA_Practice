@@ -171,6 +171,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Shreyansh262/DSA_Practice/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shreyansh262/DSA_Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3536-maximum-product-of-two-digits](https://github.com/Shreyansh262/DSA_Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shreyansh262/DSA_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shreyansh262/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/Shreyansh262/DSA_Practice/tree/master/3895-count-digit-appearances) |
@@ -364,6 +365,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shreyansh262/DSA_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shreyansh262/DSA_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shreyansh262/DSA_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3536-maximum-product-of-two-digits](https://github.com/Shreyansh262/DSA_Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shreyansh262/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
