@@ -532,6 +532,7 @@
 | [0200-number-of-islands](https://github.com/Shreyansh262/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shreyansh262/DSA_Practice/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shreyansh262/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Shreyansh262/DSA_Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Shreyansh262/DSA_Practice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Shreyansh262/DSA_Practice/tree/master/0785-is-graph-bipartite) |
@@ -568,6 +569,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyansh262/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shreyansh262/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Shreyansh262/DSA_Practice/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
@@ -580,6 +582,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyansh262/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shreyansh262/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Shreyansh262/DSA_Practice/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Segment Tree
