@@ -96,6 +96,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shreyansh262/DSA_Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shreyansh262/DSA_Practice/tree/master/1441-build-an-array-with-stack-operations) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shreyansh262/DSA_Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shreyansh262/DSA_Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -370,6 +371,7 @@
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Shreyansh262/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shreyansh262/DSA_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shreyansh262/DSA_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shreyansh262/DSA_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -596,6 +598,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Shreyansh262/DSA_Practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Shreyansh262/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Shreyansh262/DSA_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Design
 |  |
 | ------- |
