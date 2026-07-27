@@ -532,6 +532,7 @@
 | [0110-balanced-binary-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyansh262/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Shreyansh262/DSA_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Shreyansh262/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shreyansh262/DSA_Practice/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shreyansh262/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -546,6 +547,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Shreyansh262/DSA_Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shreyansh262/DSA_Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Shreyansh262/DSA_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Shreyansh262/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shreyansh262/DSA_Practice/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Shreyansh262/DSA_Practice/tree/master/0547-number-of-provinces) |
@@ -575,6 +577,7 @@
 | [0110-balanced-binary-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyansh262/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Shreyansh262/DSA_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shreyansh262/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Shreyansh262/DSA_Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0543-diameter-of-binary-tree) |
@@ -591,6 +594,7 @@
 | [0110-balanced-binary-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyansh262/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Shreyansh262/DSA_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shreyansh262/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Shreyansh262/DSA_Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0543-diameter-of-binary-tree) |
