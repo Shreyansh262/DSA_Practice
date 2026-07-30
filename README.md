@@ -177,6 +177,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Shreyansh262/DSA_Practice/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shreyansh262/DSA_Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shreyansh262/DSA_Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shreyansh262/DSA_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -256,6 +257,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shreyansh262/DSA_Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shreyansh262/DSA_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3713-longest-balanced-substring-i) |
@@ -480,6 +482,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shreyansh262/DSA_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shreyansh262/DSA_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Shreyansh262/DSA_Practice/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String Matching
 |  |
