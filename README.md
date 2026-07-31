@@ -127,6 +127,7 @@
 | [0036-valid-sudoku](https://github.com/Shreyansh262/DSA_Practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Shreyansh262/DSA_Practice/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Shreyansh262/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/Shreyansh262/DSA_Practice/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shreyansh262/DSA_Practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -241,6 +242,7 @@
 | [0072-edit-distance](https://github.com/Shreyansh262/DSA_Practice/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Shreyansh262/DSA_Practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Shreyansh262/DSA_Practice/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Shreyansh262/DSA_Practice/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Shreyansh262/DSA_Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shreyansh262/DSA_Practice/tree/master/0242-valid-anagram) |
@@ -564,6 +566,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Shreyansh262/DSA_Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shreyansh262/DSA_Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Shreyansh262/DSA_Practice/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/Shreyansh262/DSA_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Shreyansh262/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shreyansh262/DSA_Practice/tree/master/0207-course-schedule) |
