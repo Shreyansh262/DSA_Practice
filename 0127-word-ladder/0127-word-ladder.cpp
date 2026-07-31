@@ -67,7 +67,7 @@ public:
         }
         if (ln == -1)
             return 0;
-        // 0 -> ln min path
+        // fn -> ln min path
         return minPath(fn, ln, adjList);
     }
 };
