@@ -69,6 +69,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Shreyansh262/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Shreyansh262/DSA_Practice/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Shreyansh262/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/0503-next-greater-element-ii) |
@@ -171,6 +172,7 @@
 | [0189-rotate-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Shreyansh262/DSA_Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/Shreyansh262/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreyansh262/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Shreyansh262/DSA_Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -195,6 +197,7 @@
 | [0206-reverse-linked-list](https://github.com/Shreyansh262/DSA_Practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Shreyansh262/DSA_Practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Shreyansh262/DSA_Practice/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/Shreyansh262/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Shreyansh262/DSA_Practice/tree/master/1922-count-good-numbers) |
 ## Two Pointers
@@ -325,6 +328,7 @@
 | [0312-burst-balloons](https://github.com/Shreyansh262/DSA_Practice/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Shreyansh262/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/0516-longest-palindromic-subsequence) |
@@ -699,4 +703,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shreyansh262/DSA_Practice/tree/master/0347-top-k-frequent-elements) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Shreyansh262/DSA_Practice/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
