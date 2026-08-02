@@ -86,6 +86,7 @@
 | [0739-daily-temperatures](https://github.com/Shreyansh262/DSA_Practice/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Shreyansh262/DSA_Practice/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Shreyansh262/DSA_Practice/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Shreyansh262/DSA_Practice/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/Shreyansh262/DSA_Practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -175,6 +176,7 @@
 | [0486-predict-the-winner](https://github.com/Shreyansh262/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreyansh262/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Shreyansh262/DSA_Practice/tree/master/0877-stone-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Shreyansh262/DSA_Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Shreyansh262/DSA_Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/1903-largest-odd-number-in-string) |
@@ -337,6 +339,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shreyansh262/DSA_Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0799-champagne-tower](https://github.com/Shreyansh262/DSA_Practice/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/Shreyansh262/DSA_Practice/tree/master/0877-stone-game) |
 | [1092-shortest-common-supersequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/1092-shortest-common-supersequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Shreyansh262/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shreyansh262/DSA_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -707,4 +710,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shreyansh262/DSA_Practice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Shreyansh262/DSA_Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
