@@ -267,6 +267,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Shreyansh262/DSA_Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shreyansh262/DSA_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreyansh262/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1592-rearrange-spaces-between-words](https://github.com/Shreyansh262/DSA_Practice/tree/master/1592-rearrange-spaces-between-words) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shreyansh262/DSA_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shreyansh262/DSA_Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/1903-largest-odd-number-in-string) |
