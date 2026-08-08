@@ -587,6 +587,7 @@
 | [0547-number-of-provinces](https://github.com/Shreyansh262/DSA_Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Shreyansh262/DSA_Practice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Shreyansh262/DSA_Practice/tree/master/0785-is-graph-bipartite) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Shreyansh262/DSA_Practice/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [3310-remove-methods-from-project](https://github.com/Shreyansh262/DSA_Practice/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -603,6 +604,7 @@
 | [0733-flood-fill](https://github.com/Shreyansh262/DSA_Practice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Shreyansh262/DSA_Practice/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Shreyansh262/DSA_Practice/tree/master/0994-rotting-oranges) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Shreyansh262/DSA_Practice/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [3310-remove-methods-from-project](https://github.com/Shreyansh262/DSA_Practice/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
@@ -634,6 +636,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Shreyansh262/DSA_Practice/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Tree
 |  |
 | ------- |
@@ -651,6 +654,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shreyansh262/DSA_Practice/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Shreyansh262/DSA_Practice/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Segment Tree
 |  |
 | ------- |
