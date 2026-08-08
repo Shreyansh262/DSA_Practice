@@ -238,6 +238,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shreyansh262/DSA_Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shreyansh262/DSA_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shreyansh262/DSA_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shreyansh262/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -278,6 +279,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shreyansh262/DSA_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -357,6 +359,7 @@
 | [1406-stone-game-iii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shreyansh262/DSA_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Shreyansh262/DSA_Practice/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
 |  |
 | ------- |
@@ -514,6 +517,7 @@
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Shreyansh262/DSA_Practice/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String Matching
