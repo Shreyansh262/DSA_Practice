@@ -108,6 +108,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shreyansh262/DSA_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1732-find-the-highest-altitude](https://github.com/Shreyansh262/DSA_Practice/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shreyansh262/DSA_Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1755-closest-subsequence-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/1755-closest-subsequence-sum) |
 | [1929-concatenation-of-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shreyansh262/DSA_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -235,6 +236,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Shreyansh262/DSA_Practice/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Shreyansh262/DSA_Practice/tree/master/0455-assign-cookies) |
+| [1755-closest-subsequence-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/1755-closest-subsequence-sum) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shreyansh262/DSA_Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shreyansh262/DSA_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shreyansh262/DSA_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -358,6 +360,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shreyansh262/DSA_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shreyansh262/DSA_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1755-closest-subsequence-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/1755-closest-subsequence-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Shreyansh262/DSA_Practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
@@ -385,6 +388,7 @@
 | [0268-missing-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Shreyansh262/DSA_Practice/tree/master/0645-set-mismatch) |
+| [1755-closest-subsequence-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/1755-closest-subsequence-sum) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
@@ -409,6 +413,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shreyansh262/DSA_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1755-closest-subsequence-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/1755-closest-subsequence-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shreyansh262/DSA_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shreyansh262/DSA_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Shreyansh262/DSA_Practice/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -752,4 +757,12 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1406-stone-game-iii) |
+## Meet in the Middle
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/1755-closest-subsequence-sum) |
+## Bitmask
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/1755-closest-subsequence-sum) |
 <!---LeetCode Topics End-->
