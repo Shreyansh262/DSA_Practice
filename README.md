@@ -115,6 +115,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shreyansh262/DSA_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shreyansh262/DSA_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Shreyansh262/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shreyansh262/DSA_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Shreyansh262/DSA_Practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shreyansh262/DSA_Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -283,6 +284,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shreyansh262/DSA_Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shreyansh262/DSA_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Shreyansh262/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -677,6 +679,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Shreyansh262/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -788,4 +791,8 @@
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shreyansh262/DSA_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Shreyansh262/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
