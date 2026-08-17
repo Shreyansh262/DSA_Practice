@@ -107,6 +107,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shreyansh262/DSA_Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Shreyansh262/DSA_Practice/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shreyansh262/DSA_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1563-stone-game-v](https://github.com/Shreyansh262/DSA_Practice/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/Shreyansh262/DSA_Practice/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shreyansh262/DSA_Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-closest-subsequence-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/1755-closest-subsequence-sum) |
@@ -194,6 +195,7 @@
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Shreyansh262/DSA_Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Shreyansh262/DSA_Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Shreyansh262/DSA_Practice/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Shreyansh262/DSA_Practice/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -373,6 +375,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shreyansh262/DSA_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shreyansh262/DSA_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1563-stone-game-v](https://github.com/Shreyansh262/DSA_Practice/tree/master/1563-stone-game-v) |
 | [1755-closest-subsequence-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/1755-closest-subsequence-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Shreyansh262/DSA_Practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -778,6 +781,7 @@
 | [0877-stone-game](https://github.com/Shreyansh262/DSA_Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Shreyansh262/DSA_Practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Shreyansh262/DSA_Practice/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
