@@ -205,6 +205,7 @@
 | [1563-stone-game-v](https://github.com/Shreyansh262/DSA_Practice/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Shreyansh262/DSA_Practice/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/Shreyansh262/DSA_Practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Shreyansh262/DSA_Practice/tree/master/2029-stone-game-ix) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Shreyansh262/DSA_Practice/tree/master/2566-maximum-difference-by-remapping-a-digit) |
@@ -297,6 +298,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shreyansh262/DSA_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shreyansh262/DSA_Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Shreyansh262/DSA_Practice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shreyansh262/DSA_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shreyansh262/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -551,6 +553,7 @@
 | [0860-lemonade-change](https://github.com/Shreyansh262/DSA_Practice/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/Shreyansh262/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Shreyansh262/DSA_Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shreyansh262/DSA_Practice/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shreyansh262/DSA_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Shreyansh262/DSA_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -800,6 +803,7 @@
 | [1140-stone-game-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Shreyansh262/DSA_Practice/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Shreyansh262/DSA_Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shreyansh262/DSA_Practice/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
