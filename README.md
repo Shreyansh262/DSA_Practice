@@ -113,6 +113,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Shreyansh262/DSA_Practice/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shreyansh262/DSA_Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-closest-subsequence-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/1755-closest-subsequence-sum) |
+| [1872-stone-game-viii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shreyansh262/DSA_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyansh262/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -203,6 +204,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/Shreyansh262/DSA_Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Shreyansh262/DSA_Practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/Shreyansh262/DSA_Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Shreyansh262/DSA_Practice/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/Shreyansh262/DSA_Practice/tree/master/1927-sum-game) |
@@ -389,6 +391,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shreyansh262/DSA_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/Shreyansh262/DSA_Practice/tree/master/1563-stone-game-v) |
 | [1755-closest-subsequence-sum](https://github.com/Shreyansh262/DSA_Practice/tree/master/1755-closest-subsequence-sum) |
+| [1872-stone-game-viii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1872-stone-game-viii) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Shreyansh262/DSA_Practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
@@ -603,6 +606,7 @@
 | [1140-stone-game-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shreyansh262/DSA_Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/Shreyansh262/DSA_Practice/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1872-stone-game-viii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
@@ -803,6 +807,7 @@
 | [1140-stone-game-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Shreyansh262/DSA_Practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Shreyansh262/DSA_Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shreyansh262/DSA_Practice/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -810,12 +815,14 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Shreyansh262/DSA_Practice/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Shreyansh262/DSA_Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Shreyansh262/DSA_Practice/tree/master/2029-stone-game-ix) |
 ## Meet in the Middle
 |  |
