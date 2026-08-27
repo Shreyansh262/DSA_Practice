@@ -175,6 +175,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shreyansh262/DSA_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shreyansh262/DSA_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Shreyansh262/DSA_Practice/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
@@ -313,6 +314,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shreyansh262/DSA_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Trie
 |  |
 | ------- |
@@ -477,6 +479,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shreyansh262/DSA_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
 |  |
@@ -569,6 +572,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shreyansh262/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shreyansh262/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shreyansh262/DSA_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String Matching
 |  |
 | ------- |
@@ -617,6 +621,7 @@
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Shreyansh262/DSA_Practice/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shreyansh262/DSA_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Memoization
 |  |
 | ------- |
