@@ -862,4 +862,8 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Shreyansh262/DSA_Practice/tree/master/2029-stone-game-ix) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Shreyansh262/DSA_Practice/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
