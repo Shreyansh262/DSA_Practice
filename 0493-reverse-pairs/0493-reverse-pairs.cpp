@@ -2,7 +2,6 @@ using ll = long long;
 class Solution {
 public:
     int merge(int low, int mid, int high, vector<int>& arr) {
-        int cnt = 0;
         int n1 = mid - low + 1, n2 = high - mid;
         vector<int> l(n1), h(n2);
         for (int i = 0; i < n1; i++) {
@@ -11,11 +10,13 @@ public:
         for (int i = 0; i < n2; i++) {
             h[i] = arr[i + mid + 1];
         }
-        for (ll i : h) {
-            long long x = upper_bound(l.begin(), l.end(), 2*i) - l.begin();
-            if (x != n1) {
-                cnt += n1 - x;
+        int right = mid+1;
+        int cnt = 0;
+        for (int i = low;i<=mid;i++) {
+            while(right<=high&&arr[i]>2LL*arr[right]){
+                right++;
             }
+            cnt+=right-(mid+1);
         }
         int i = 0, j = 0;
         int k = low;
